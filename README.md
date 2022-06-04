@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malak</h1>
-<h3 align="center">A passionate student for Information Systems Development</h3>
+<h3 align="center">A passionate student of Information Systems Development</h3>
 
 <img align="right" width="400" alt="hello world!" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
 
