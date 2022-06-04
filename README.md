@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malak</h1>
-<h3 align="center">A passionate student for Information Systems</h3>
+<h3 align="center">A passionate student for Information Systems Development</h3>
 
 <img align="right" width="400" alt="hello world!" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younismalak&label=Profile%20views&color=0e75b6&style=flat" alt="younismalak" /> </p>
 
-- 🔭 I’m currently working on **an Android app for an assited living facility**
+- 🔭 I’m currently working on **an Android app for an assisted living facility**
 
 - 💬 Ask me about **anything related to Java and Web Development**
 
