@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **an Android app for an assisted living facility**
 
-- 💬 Ask me about **anything related to Java and Web Development**
+- 💬 Ask me about **anything related to Java, SQL, and Web Development**
+
+- 🗄️I'm passionate about **data querying and visualization**
 
 - 📫 How to reach me **[Email](mailto:younis.malak@hotmail.com) OR [LinkedIn](www.linkedin.com/in/malak-younis)**
 
