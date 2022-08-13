@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younismalak&label=Profile%20views&color=0e75b6&style=flat" alt="younismalak" /> </p>
 
-- 🔭 I’m currently working on **an Android app for an assisted living facility**
+- 🔭 I’m currently learning **Python** on Udemy
 
 - 💬 Ask me about **anything related to Java, SQL, and Web Development**
 
-- 🗄️I'm passionate about **data querying and visualization**
+- 🗄️I'm passionate about **Data Analysis and Visualization**
 
 - 📫 How to reach me **[Email](mailto:younis.malak@hotmail.com) OR [LinkedIn](www.linkedin.com/in/malak-younis)**
 
-- ⚡ Fun fact: **I have a dog called Mia 🐕**
+- ⚡ Fun fact: **I have a dog named Mia 🐕 and a cat named Charlie 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
