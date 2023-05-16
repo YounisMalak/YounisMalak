@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Malak</h1>
-<h3 align="center">A passionate student of Information Systems Development</h3>
+<h3 align="center">A passionate student of Information Systems Development who works as a NOC & SOC Engineer</h3>
 
 <img align="right" width="350" alt="hello world!" src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761122f5aae3d32b6b3ec6171554bf219bf337ec7db0&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younismalak&label=Profile%20views&color=0e75b6&style=flat" alt="younismalak" /> </p>
 
-- 🔭 I’m currently learning **Python** on Udemy
 
-- 💬 Ask me about **anything related to Java, SQL, and Web Development**
+- 💬 Ask me about **anything related to Java, BI, and Data Analysis in Python and SQL**
 
 - 🗄️I'm passionate about **Data Analysis and Visualization**
 
